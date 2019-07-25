@@ -1,2 +1,1 @@
-# russian_Pixelmon_Reforged
-Pixelmon Reforged Russian Translat
+#Русский перевод мода Pixelmon Reforged
